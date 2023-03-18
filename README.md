@@ -26,4 +26,4 @@ You can configure the simulation by changing the values of the parameters at the
 # emaple
 This picture is a result of this code as an example:
 
-![alt text]([image_file_path_or_url](https://github.com/tp-atrin/gravitational-lensing-effect-caused-by-a-black-hole-on-the-background-stars/blob/d2d06cad54a2eeeadd2e0f7f29adc5066e64692d/result.png))
+![alt text] (https://github.com/tp-atrin/gravitational-lensing-effect-caused-by-a-black-hole-on-the-background-stars/blob/d2d06cad54a2eeeadd2e0f7f29adc5066e64692d/result.png)
