@@ -5,6 +5,7 @@ This python script simulates the gravitational lensing effect caused by a black 
 To run this script, you will need Python 3 and the following libraries:
 * NumPy
 * Matplotlib
+
 You can install these libraries using pip:
 
 ```
