@@ -6,15 +6,17 @@ To run this script, you will need Python 3 and the following libraries:
 * NumPy
 * Matplotlib
 You can install these libraries using pip:
-'''
+
+```
 pip install numpy matplotlib
-'''
+```
 
 # Usage
 To run the simulation, simply execute the lensing_simulator.py file using Python:
-'''
+
+```
 python lensing_simulator.py
-'''
+```
 This will generate an image of the lensed star field in the current directory.
 
 # Configuration
@@ -22,3 +24,4 @@ You can configure the simulation by changing the values of the parameters at the
 
 # emaple
 This picture is a result of this code as an example:
+img < src="https://github.com/tp-atrin/gravitational-lensing-effect-caused-by-a-black-hole-on-the-background-stars/blob/d2d06cad54a2eeeadd2e0f7f29adc5066e64692d/result.png"
